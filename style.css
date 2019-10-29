@@ -1,0 +1,10 @@
+body{
+    font-family:Verdana, sans-serif;
+    margin-left:20%;
+    width:auto;
+    background-image: image(sky.jpeg)
+}
+h1{
+    font-size:60px;
+    color:#FF0000
+}
